@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- <item
+         android:id="@+id/nav_home"
+         android:icon="@mipmap/home"
+         android:title="@string/home" />-->
+
+    <item
+        android:id="@+id/nav_add_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/nav_drams"
+        android:icon="@drawable/icon_drama"
+        android:title="@string/dramas" />
+
+    <item
+        android:id="@+id/nav_live"
+        android:icon="@drawable/ic_live"
+        android:title="@string/Live" />
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/icon_more"
+        android:title="@string/More" />
+
+
+
+    <!--<item
+        android:id="@+id/nav_rate"
+        android:icon="@mipmap/rate"
+        android:title="@string/rateapp" />-->
+
+    <item
+        android:id="@+id/nav_shareapp"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/shareapp" />
+
+    <!-- <item
+         android:id="@+id/nav_about"
+         android:icon="@mipmap/about"
+         android:title="@string/menu_about" />-->
+
+    <!--<item
+        android:id="@+id/nav_setting"
+        android:icon="@mipmap/setting"
+        android:title="@string/action_settings" />-->
+
+</menu>
